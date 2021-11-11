@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm <a href="https://imams2.github.io">Imam Sudiyatmo</a>!</h1>
+<h1 align="center">Welcome to my GitHub profile ＾ω＾</h1>
 
-<!--
-**ImamS2/ImamS2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/imams2"><img src="https://github-readme-stats.vercel.app/api?username=imams2&hide_border=true&show_icons=true" alt="imams2's github stats"></a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong><a href="https://imams2.github.io">Website</a></strong> |
+  <strong><a href="https://facebook.com/ImamDSign">Facebook</a></strong> |
+  <strong><a href="https://gitlab.com/imams2">GitLab</a></strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">I'm Freelancer Web Dev</p>
